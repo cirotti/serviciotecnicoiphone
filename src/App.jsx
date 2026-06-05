@@ -13,7 +13,6 @@ export default function App() {
       <Hero />
       <Metrics />
       <Services />
-      <Precision />
       <CTA />
       <Footer />
     </main>
