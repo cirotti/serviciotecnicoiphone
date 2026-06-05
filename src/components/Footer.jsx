@@ -10,11 +10,7 @@ import {
 import logo from "../assets/serviciotecnicoiphone.png";
 
 const contactMessage = encodeURIComponent(
-  `Hola, vengo desde su sitio web.
-
-Me gustaría recibir información sobre sus servicios para iPhone.
-
-Quedo atento a su respuesta.`
+  `Hola, vengo desde su sitio web y me gustaría solicitar una reparacion`
 );
 
 export default function Footer() {
