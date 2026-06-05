@@ -14,7 +14,6 @@ export default function Navbar() {
       <nav className="desktop-nav">
         <a href="#inicio">Inicio</a>
         <a href="#servicios">Servicios</a>
-        <a href="#precision">Tecnología</a>
         <a href="#contacto">Contacto</a>
       </nav>
 
