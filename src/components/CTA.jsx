@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 
 const whatsappMessage = encodeURIComponent(
-`Hola, vengo desde su sitio web y me gustaría solicitar un diagnóstico.
+  `Hola, vengo desde su sitio web y me gustaría solicitar un diagnóstico.
 
 • Modelo del iPhone:
 • Descripción de la falla:
@@ -34,8 +34,8 @@ export default function CTA() {
         </h2>
 
         <p>
-          Recibe un diagnóstico rápido, atención a domicilio y garantía en cada
-          reparación. Escríbenos y te ayudaremos a encontrar la mejor solución.
+          Recibe una reparacion rápida, atención a domicilio a todas las comunas de Santiago. 
+          Escríbenos y te ayudaremos a encontrar la mejor solución.
         </p>
 
         <a
