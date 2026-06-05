@@ -41,8 +41,8 @@ export default function Footer() {
           </h2>
 
           <p>
-            Reparaciones a domicilio en Santiago, diagnóstico profesional,
-            repuestos de calidad y garantía en cada trabajo.
+            Recibe una reparacion rápido, atención a domicilio a todas las comunas de Santiago.
+            Escríbenos y te ayudaremos a encontrar la mejor solución.
           </p>
 
           <div className="footer-actions">
@@ -73,7 +73,7 @@ export default function Footer() {
           <MapPin />
           <strong>Ubicación</strong>
           <span>Santiago, Chile</span>
-          <small>Servicio técnico a domicilio</small>
+          <small>Vamos a cada rincón de la Región Metropolitana</small>
         </div>
 
         <div className="footer-card">

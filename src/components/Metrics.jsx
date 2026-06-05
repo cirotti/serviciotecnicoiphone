@@ -12,7 +12,7 @@ export default function Metrics() {
       <div>
         <Camera />
         <strong>+200</strong>
-        <span>Reparaciones documentadas</span>
+        <span>Domicilios visitados</span>
       </div>
 
       <div>

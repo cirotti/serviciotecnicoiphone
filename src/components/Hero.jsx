@@ -75,10 +75,10 @@ export default function Hero() {
 
         <div className="hero-trust">
           <span>
-            <Zap size={15} /> Diagnóstico rápido
+            <Zap size={15} /> Boleta o Factura
           </span>
-          <span>Garantía incluida</span>
-          <span>Reparación premium</span>
+          <span>Todo Medio de pago</span>
+          <span>Debito o Credito</span>
         </div>
       </div>
 
