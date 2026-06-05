@@ -21,11 +21,6 @@ const services = [
     title: "Puerto de carga",
     text: "Solución para problemas de carga y conexión."
   },
-  {
-    icon: <Activity />,
-    title: "Diagnóstico",
-    text: "Diagnóstico avanzado con equipos profesionales."
-  }
 ];
 
 export default function Services() {
