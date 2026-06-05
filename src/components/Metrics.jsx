@@ -17,7 +17,7 @@ export default function Metrics() {
 
       <div>
         <Star />
-        <strong>+5</strong>
+        <strong>11</strong>
         <span>Años reparando iPhone</span>
       </div>
 
