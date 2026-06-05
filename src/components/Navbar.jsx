@@ -40,7 +40,6 @@ export default function Navbar() {
       <div className={`mobile-menu ${open ? "is-open" : ""}`}>
         <a href="#inicio" onClick={closeMenu}>Inicio</a>
         <a href="#servicios" onClick={closeMenu}>Servicios</a>
-        <a href="#precision" onClick={closeMenu}>Tecnología</a>
         <a href="#contacto" onClick={closeMenu}>Contacto</a>
 
         <a
